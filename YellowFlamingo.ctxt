@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=YellowFlamingo
+comment1.params=
+comment1.target=YellowFlamingo()
+comment2.params=
+comment2.target=int\ getDirection()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ jump()
+comment5.params=
+comment5.target=void\ jumpOnBlock()
+comment6.params=
+comment6.target=void\ fall()
+comment7.params=
+comment7.target=void\ shooting()
+comment8.params=
+comment8.target=int\ getLives()
+comment9.params=
+comment9.target=void\ endGame()
+numComments=10
